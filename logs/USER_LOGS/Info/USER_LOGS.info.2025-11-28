@@ -1,0 +1,98 @@
+[2025-11-26 16:00:07,802] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 16:02:54,133] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 16:07:35,153] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 16:11:11,438] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 16:12:51,147] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 16:32:37,377] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 16:35:06,056] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 16:36:03,405] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 16:42:49,337] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 16:43:54,286] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 17:11:41,809] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 17:13:39,894] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 17:14:49,533] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 17:15:35,791] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 17:19:17,407] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 17:43:25,304] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 17:56:57,861] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 17:57:03,507] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 17:59:44,154] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 18:11:56,414] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 18:13:18,836] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-26 18:30:24,416] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-27 09:28:43,512] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-27 09:28:43,538] -- INFO - login_serializer.py -- GetUserData - Line no - 31 --  User Authenticated -- wahaz.shaik@neosoft 
+
+[2025-11-27 09:28:43,628] -- INFO - views.py -- post - Line no - 686 -- Token Successful for user -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-27 09:43:29,941] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-27 09:43:29,952] -- INFO - login_serializer.py -- GetUserData - Line no - 31 --  User Authenticated -- wahaz.shaik@neosoft 
+
+[2025-11-27 09:43:29,997] -- INFO - views.py -- post - Line no - 686 -- Token Successful for user -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-27 11:29:45,082] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-27 11:29:45,091] -- INFO - login_serializer.py -- GetUserData - Line no - 31 --  User Authenticated -- wahaz.shaik@neosoft 
+
+[2025-11-27 11:29:45,117] -- INFO - views.py -- post - Line no - 686 -- Token Successful for user -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-27 15:07:21,407] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-27 15:07:21,415] -- INFO - login_serializer.py -- GetUserData - Line no - 31 --  User Authenticated -- wahaz.shaik@neosoft 
+
+[2025-11-27 15:07:21,452] -- INFO - views.py -- post - Line no - 686 -- Token Successful for user -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-27 16:54:59,741] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-27 16:54:59,749] -- INFO - login_serializer.py -- GetUserData - Line no - 31 --  User Authenticated -- wahaz.shaik@neosoft 
+
+[2025-11-27 16:54:59,822] -- INFO - views.py -- post - Line no - 686 -- Token Successful for user -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-28 09:52:05,769] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-28 09:52:05,857] -- INFO - login_serializer.py -- GetUserData - Line no - 31 --  User Authenticated -- wahaz.shaik@neosoft 
+
+[2025-11-28 09:52:05,936] -- INFO - views.py -- post - Line no - 686 -- Token Successful for user -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-28 12:11:55,913] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-28 12:11:55,924] -- INFO - login_serializer.py -- GetUserData - Line no - 31 --  User Authenticated -- wahaz.shaik@neosoft 
+
+[2025-11-28 12:11:55,959] -- INFO - views.py -- post - Line no - 686 -- Token Successful for user -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-28 12:27:13,473] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-28 12:27:13,482] -- INFO - login_serializer.py -- GetUserData - Line no - 31 --  User Authenticated -- wahaz.shaik@neosoft 
+
+[2025-11-28 12:27:13,517] -- INFO - views.py -- post - Line no - 686 -- Token Successful for user -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-28 17:28:51,828] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-11-28 17:28:51,835] -- INFO - login_serializer.py -- GetUserData - Line no - 31 --  User Authenticated -- wahaz.shaik@neosoft 
+
+[2025-11-28 17:28:51,857] -- INFO - views.py -- post - Line no - 686 -- Token Successful for user -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+

@@ -1,0 +1,8 @@
+[2025-12-02 17:22:43,600] -- INFO - decorators.py -- wrap - Line no - 88 -- Data by POST for Incoming Login Request by -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-12-02 17:22:43,660] -- INFO - login_serializer.py -- GetUserData - Line no - 31 --  User Authenticated -- wahaz.shaik@neosoft 
+
+[2025-12-02 17:22:43,676] -- INFO - views.py -- post - Line no - 686 -- Token Successful for user -- wahaz.shaik@neosoft -- IP -- 127.0.0.1
+
+[2025-12-03 15:19:40,281] -- INFO - views.py -- post - Line no - 723 -- user --> AnonymousUser Logged Out Successfully 
+
